@@ -350,9 +350,9 @@ a:focus-visible { outline: 2px solid var(--volt); outline-offset: 6px; }
 @media (prefers-reduced-motion: reduce) { .dark-particles { display: none; } *, *::before, *::after { animation: none !important; transition: none !important; } }
 
 
-/* Upright editorial SAW shares the headline typeface, with a precise hot accent. */
-.saw-wordmark { position: absolute; z-index: 4; top: 1.75rem; left: 3.5vw; display: inline-flex; align-items: baseline; color: var(--paper); font: 700 4rem/1 var(--font-display); letter-spacing: 0; text-shadow: var(--wordmark-shadow); animation: content-arrive .9s .3s ease-out both; }
-.saw-wordmark span { color: var(--hot); text-shadow: none; }
-.saw-wordmark:hover { color: var(--hot); }
-@media (max-width: 700px) { .saw-wordmark { top: 1.1rem; left: 1rem; font-size: 3rem; } }
+/* Compact, heavy editorial signature echoes the hot headline accent. */
+.saw-wordmark { position: absolute; z-index: 4; top: 1.5rem; left: 3.5vw; display: inline-flex; align-items: baseline; color: var(--hot); font: 900 2rem/.95 var(--font-contact); letter-spacing: 0; text-shadow: var(--wordmark-shadow); transform: skewX(-8deg); transition: color .2s ease; }
+.saw-wordmark span { color: var(--volt); text-shadow: none; }
+.saw-wordmark:hover { color: var(--paper); }
+@media (max-width: 700px) { .saw-wordmark { top: 1.1rem; left: 1rem; font-size: 1.65rem; } }
 @media (prefers-reduced-motion: reduce) { .saw-wordmark { animation: none; } }

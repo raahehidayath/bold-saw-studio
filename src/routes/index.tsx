@@ -2,7 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowDown, ArrowUpRight, FileText, Linkedin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { CvDownload } from "@/components/cv-download";
-import portrait from "@/assets/wahab-hand-corrected.png";
+import portrait from "@/assets/wahab-hand-matched.png";
 import raahPreviewAsset from "@/assets/raah-e-hidayath.png.asset.json";
 import sawaaPreviewAsset from "@/assets/sawaa-enterprise.png.asset.json";
 
