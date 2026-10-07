@@ -1,5 +1,5 @@
 # Requested corrections
-- [ ] Preserve original portfolio and CV pages.
-- [ ] Lighten only the hand to match the face.
-- [ ] Make the top SAW smaller, bolder, and visually coordinated.
-- [ ] Verify images, CV download, and layout.
+- [x] Preserve original portfolio and CV pages.
+- [x] Lighten only the hand to match the face.
+- [x] Make the top SAW smaller, bolder, and visually coordinated.
+- [x] Verify images, CV download, and layout.
