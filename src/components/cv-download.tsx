@@ -1,7 +1,7 @@
 import { useState, type MouseEvent } from "react";
 import { Download, LoaderCircle } from "lucide-react";
 import { Button, type ButtonProps } from "@/components/ui/button";
-import cvAsset from "@/assets/syed-abdul-wahab-cv.pdf.asset.json";
+import cvAsset from "@/assets/wahab-cv.pdf.asset.json";
 
 const pdfUrl = cvAsset.url;
 const filename = "Syed-Abdul-Wahab-CV.pdf";

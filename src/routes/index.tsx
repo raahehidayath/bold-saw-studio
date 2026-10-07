@@ -3,8 +3,8 @@ import { ArrowDown, ArrowUpRight, FileText, Linkedin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { CvDownload } from "@/components/cv-download";
 import portrait from "@/assets/wahab-hand-matched.png";
-import raahPreviewAsset from "@/assets/raah-e-hidayath.png.asset.json";
-import sawaaPreviewAsset from "@/assets/sawaa-enterprise.png.asset.json";
+import raahPreviewAsset from "@/assets/raah-preview.png.asset.json";
+import sawaaPreviewAsset from "@/assets/sawaa-preview.png.asset.json";
 
 const raahPreview = raahPreviewAsset.url;
 const sawaaPreview = sawaaPreviewAsset.url;
