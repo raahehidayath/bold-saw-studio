@@ -5,3 +5,4 @@
 - [x] Verify images, CV download, and layout.
 - [x] Confirm the hand alone has fairer, youthful-looking skin; preserve the face and all other image details.
 - [x] Tone down the overly fair hand to naturally match the face, preserving everything outside the hand.
+- [ ] Lighten only the dark last fingertip to match the accepted hand tone.
