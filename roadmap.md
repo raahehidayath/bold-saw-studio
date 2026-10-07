@@ -4,4 +4,4 @@
 - [x] Make the top SAW smaller, bolder, and visually coordinated.
 - [x] Verify images, CV download, and layout.
 - [x] Confirm the hand alone has fairer, youthful-looking skin; preserve the face and all other image details.
-- [ ] Tone down the overly fair hand to naturally match the face, preserving everything outside the hand.
+- [x] Tone down the overly fair hand to naturally match the face, preserving everything outside the hand.
